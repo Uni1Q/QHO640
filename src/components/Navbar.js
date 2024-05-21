@@ -14,7 +14,7 @@ export default function Navbar() {
         <div>
             <div className="flex items-center my-10 justify-between">
                 <Link href={"/"}>
-                <img className="  h-16 w-16 rounded-md " src="public/WStoresLogo.jpg" /></Link>
+                <img className="  h-16 w-16 rounded-md " src="https://i.imgur.com/NhUBNGD.jpeg" /></Link>
                 <div className="flex gap-x-3 ">
                     <div className="bg-black text-white px-5 py-1">Home</div>
                     <div className="bg-gray-100 text-black px-5 py-1">About</div>
